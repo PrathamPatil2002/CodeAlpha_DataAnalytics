@@ -38,6 +38,11 @@ Web scraping successfully converted unstructured web data into structured format
 
 
 
+
+
+
+
+
 🔷 TASK 2: Exploratory Data Analysis (EDA)
 📌 Objective
 
@@ -79,6 +84,14 @@ Limited geographical coverage
 EDA helped uncover patterns and provided insights for better decision-making.
 
 
+
+
+
+
+
+
+
+
 🔷 TASK 3: Data Visualization
 
 📌 Objective
@@ -117,6 +130,14 @@ Visualization simplifies data understanding
 📌 Conclusion
 
 Data visualization improved clarity and supported data-driven storytelling.
+
+
+
+
+
+
+
+
 
 
 🔷 TASK 4: Sentiment Analysis
