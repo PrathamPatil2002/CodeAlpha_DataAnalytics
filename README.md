@@ -29,6 +29,8 @@ Saved as quotes.csv
 Demonstrated ability to collect real-time data
 Created dataset for further analysis
 
+<img width="1245" height="638" alt="webscraping" src="https://github.com/user-attachments/assets/e05761f0-7376-48fa-9258-2ead802c463b" />
+
 
 📌 Conclusion
 
@@ -65,6 +67,13 @@ Bar chart for product-wise quantity
 Small dataset
 Limited geographical coverage
 
+<img width="543" height="711" alt="eda1" src="https://github.com/user-attachments/assets/3361f0e7-648c-4c47-832a-4378acae3114" />
+
+
+<img width="498" height="659" alt="eda2" src="https://github.com/user-attachments/assets/8714b10d-26ee-4805-9208-90d7d28756cc" />
+
+
+
 📌 Conclusion
 
 EDA helped uncover patterns and provided insights for better decision-making.
@@ -97,6 +106,14 @@ Headphones and Mobile are top-selling products
 Electronics have higher prices
 Visualization simplifies data understanding
 
+
+<img width="1288" height="664" alt="visual photo 2" src="https://github.com/user-attachments/assets/aad0735b-e95b-41ef-b06d-3ccc66c29826" />
+
+
+
+<img width="1230" height="627" alt="price  visual" src="https://github.com/user-attachments/assets/a750feee-ee12-42e8-8851-44b226557e17" />
+
+
 📌 Conclusion
 
 Data visualization improved clarity and supported data-driven storytelling.
@@ -127,6 +144,9 @@ Neutral Reviews: 0
 Majority reviews are negative → improvement needed
 Positive reviews indicate customer satisfaction
 Helps in marketing and product decisions
+
+<img width="626" height="197" alt="Screenshot 2026-03-24 132511" src="https://github.com/user-attachments/assets/17aa9ac7-9b74-4fdb-b853-ad1108570c70" />
+
 
 📌 Conclusion
 
