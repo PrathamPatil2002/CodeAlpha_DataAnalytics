@@ -200,9 +200,13 @@ Extracting real-world data
 Performing analysis and visualization
 Generating insights for decision-making
 
-🔷 📬 Contact
+## 📬 Contact
 
-Pratham Patil
-+917385202939
+**Pratham Laxman Patil**
+- Phone no: +917385202939
+- Email: prathamlpatil837@gmail.com   
+- Location: Pune,Maharashtra,India 
+- GitHub: https://github.com/PrathamPatil2002
+- LinkedIn: https://www.linkedin.com/in/pratham-patil-3a8ba9282/
 
-📧 prathamlpatil837@gmail.com
+⭐ If you like this project, don't forget to star the repository!
